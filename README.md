@@ -5,7 +5,7 @@ Create a `Greetings` component with 2 props:
 - `lang`: A string that could be ,`"de"`,`"en"`,`"es"`,`"fr"`
 - `children`: A text
 
-
+![image]('https://user-images.githubusercontent.com/5306791/52957158-57edfd80-3391-11e9-8726-93c1a3389016.png')
 
 
 ### Iteration 2 | Component: `CreditCard`
