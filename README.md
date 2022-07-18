@@ -95,7 +95,7 @@ The component should take 1 prop:
 
 
 
-### Iteration 6 | Component: `DriverCard`
+### Iteration 7 | Component: `DriverCard`
 
 Create a `DriverCard` component that displays a rectangle with content based on the received props. 
 
@@ -137,3 +137,26 @@ The component should take 4 props:
 
 
 ----
+
+### Iteration 4 | Component: `BoxColor`
+
+Create a `BoxColor` component that displays a rectangle with a background color based on props. For this, you will need a inline style ([documentation](https://reactjs.org/docs/dom-elements.html#style)).
+
+It takes 3 props:
+
+- `r`: A number between 0 and 255 representing the amount of red
+- `g`: A number between 0 and 255 representing the amount of green
+- `b`: A number between 0 and 255 representing the amount of blue
+
+**Example**
+
+```js
+<BoxColor r={255} g={0} b={0} />
+<BoxColor r={128} g={255} b={0} />
+```
+
+**Output**
+
+![image](https://user-images.githubusercontent.com/5306791/52957816-ec0c9480-3392-11e9-9e00-67094fa2b431.png)
+
+As a bonus, you can also display the hex values of the color (ex: `#ff0000` for red).
