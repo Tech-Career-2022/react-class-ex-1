@@ -138,7 +138,7 @@ The component should take 4 props:
 
 ----
 
-### Iteration 4 | Component: `BoxColor`
+### Iteration 9 | Component: `BoxColor`
 
 Create a `BoxColor` component that displays a rectangle with a background color based on props. For this, you will need a inline style ([documentation](https://reactjs.org/docs/dom-elements.html#style)).
 
@@ -160,3 +160,21 @@ It takes 3 props:
 ![image](https://user-images.githubusercontent.com/5306791/52957816-ec0c9480-3392-11e9-9e00-67094fa2b431.png)
 
 As a bonus, you can also display the hex values of the color (ex: `#ff0000` for red).
+
+### Iteration 8 | Component: `Random`
+
+Create a `Random` component with 2 props:
+
+- `min`: A number
+- `max`: A number
+
+**Example**
+
+```js
+<Random min={1} max={6}/>
+<Random min={1} max={100}/>
+```
+
+**Output**
+
+![image](https://user-images.githubusercontent.com/5306791/52957202-718f4500-3391-11e9-9b45-d1172067e877.png)
