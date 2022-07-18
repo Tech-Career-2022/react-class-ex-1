@@ -182,7 +182,7 @@ Create a `Random` component with 2 props:
 
 ### Iteration 8 | List and Keys - `FaceBook` (Simple)
 
-Create a `FaceBook` component that displays the list of all profiles from `src/data/berlin.json`. You will probably have to write:
+Create a `FaceBook` component that displays the list of all profiles from `src/data/data.json`. You will probably have to write:
 
 ```js
 import profiles from './data.json';
