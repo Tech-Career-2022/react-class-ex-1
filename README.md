@@ -178,3 +178,22 @@ Create a `Random` component with 2 props:
 **Output**
 
 ![image](https://user-images.githubusercontent.com/5306791/52957202-718f4500-3391-11e9-9b45-d1172067e877.png)
+
+
+### Iteration 8 | List and Keys - `FaceBook` (Simple)
+
+Create a `FaceBook` component that displays the list of all profiles from `src/data/berlin.json`. You will probably have to write:
+
+```js
+import profiles from './data.json';
+```
+
+**Example**
+
+```js
+<FaceBook />
+```
+
+**Output** (you should see about 28 profiles)
+
+![image](https://user-images.githubusercontent.com/5306791/53018529-e8d8dd80-3452-11e9-9912-1221eef67be6.png)
