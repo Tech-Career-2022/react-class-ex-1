@@ -95,7 +95,7 @@ The component should take 1 prop:
 
 
 
-### Iteration 7 | Component: `DriverCard`
+### Iteration 6 | Component: `DriverCard`
 
 Create a `DriverCard` component that displays a rectangle with content based on the received props. 
 
@@ -138,7 +138,7 @@ The component should take 4 props:
 
 ----
 
-### Iteration 9 | Component: `BoxColor`
+### Iteration 7 | Component: `BoxColor`
 
 Create a `BoxColor` component that displays a rectangle with a background color based on props. For this, you will need a inline style ([documentation](https://reactjs.org/docs/dom-elements.html#style)).
 
